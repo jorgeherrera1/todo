@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "authors": [
+    "Jorge Herrera <jorge.herrera.cabrera@gmail.com>"
+  ],
+  "description": "todo app for learning backbone.js",
+  "keywords": [
+    "todo",
+    "backbone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "backbone": "~1.2.3",
+    "backbone.localStorage": "~1.1.16"
+  }
+}

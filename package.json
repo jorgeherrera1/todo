@@ -1,0 +1,20 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "todo app for learning backbone.js",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "backbone"
+  ],
+  "author": "Jorge Herrera <jorge.herrera.cabrera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.5.2",
+    "express": "^4.13.3"
+  }
+}
